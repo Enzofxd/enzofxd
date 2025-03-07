@@ -8,5 +8,5 @@ This Portfolio will provide my skills and backround about myself as well. One of
 - Highschool: Systems Plus College Foundation Main Branch (TVL-ICT) _Graduated With Honors_
 - Elementary: Francisco E. Barzaga Memorial School (FEBMS)
 # My Projects
- - Midterm Lab Task 1: Data Cleaning and Preparation using EXCEL](https://github.com/Enzofxd/enzofxd/blob/55d947daf860a675866e4a3325e211f4074f92fa/Midterm1/readme.md)
+ - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/Enzofxd/enzofxd/blob/55d947daf860a675866e4a3325e211f4074f92fa/Midterm1/readme.md)
  - Midterm Lab Task 2: Data Cleaning and Preparation using POWER QUERY
