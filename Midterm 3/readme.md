@@ -20,4 +20,4 @@ VISUALS/Reports stated under number 2.
 
 ## Final Output (Screenshot of Final Queries):
 * **Dashboard**
-<img width="455" alt="Lim Dashboard" src="Midterm 3/images" />
+<img width="455" alt="Lim Dashboard" src="[Midterm 3/images](https://github.com/Enzofxd/enzofxd/tree/9449563f1d3966c9e03af641ef2ba76420636684/Midterm%203/images)" />
