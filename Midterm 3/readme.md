@@ -20,4 +20,4 @@ VISUALS/Reports stated under number 2.
 
 ## Final Output (Screenshot of Final Queries):
 * **Dashboard**
-<img width="455" alt="Turla Dashboard" src="https://github.com/user-attachments/assets/2c0204bf-062f-450a-bc14-3417341f3fa2" />
+<img width="455" alt="Turla Dashboard" src="Midterm 3/images/484745799_1384786972699976_6999508846607473174_n.png" />
