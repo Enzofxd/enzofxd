@@ -20,4 +20,4 @@ VISUALS/Reports stated under number 2.
 
 ## Final Output (Screenshot of Final Queries):
 * **Dashboard**
-<img src="[Midterm 3/images](https://github.com/Enzofxd/enzofxd/blob/2ac3809d30e3fa021514bd5b9762c6b7d32ac1da/Midterm%203/images/484745799_1384786972699976_6999508846607473174_n.png)" alt="Alt Text" width="400" height="300">
+<img src="Midterm 3/images/484745799_1384786972699976_6999508846607473174_n.png" alt="Alt Text" width="400" height="300">
