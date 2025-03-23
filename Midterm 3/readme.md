@@ -19,5 +19,5 @@ VISUALS/Reports stated under number 2.
 *  The Slicers should make your Dashboard interactive 
 
 ## Final Output (Screenshot of Final Queries):
-* **Dashboard**
+**Dashboard**
 <img src="Midterm 3/images/484745799_1384786972699976_6999508846607473174_n.png" alt="Alt Text" width="400" height="300">
