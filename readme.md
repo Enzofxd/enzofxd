@@ -12,5 +12,5 @@ This Portfolio will provide my skills and backround about myself as well. One of
  - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/Enzofxd/enzofxd/tree/1cc57fd8c3a1fd0b21cefc6debb8fb9fc20feb90/Midterm2)
  - Final Lab Task 1: [MYSQL Basic Event Management](https://github.com/Enzofxd/enzofxd/tree/f2bf90b9116810abb2998a36810a37dacae55a3f/Final%20task%201)
  - Final Lab Task 2: [Transforming ER into Relational Tables](https://github.com/Enzofxd/enzofxd/tree/115253513608adacdf5297f7d40b92f4e3837a67/Final%20task%202)
-- Final Lab Task 3: [Table Manipulation]()
+- Final Lab Task 3: [Table Manipulation](https://github.com/Enzofxd/enzofxd/tree/2ca36c548ce17c8c9a4227b9d37505c801018d01/Final%20task%203)
 - Final Lab Task 4: [Using SELECT statement]()
