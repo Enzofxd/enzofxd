@@ -18,4 +18,4 @@
 <img src="ER DIAGRAMS.PNG" width="500" height="300"> <br><HR>
 
 
--Final task 2: <a href=https://github.com/Enzofxd/enzofxd/tree/312ab1d00061ffb3e1edf9a26fd624c81a24d583/Final%20task%202> sql copy of the database and table structures </a>
+-Final task 2: <a href=https://github.com/Enzofxd/enzofxd/blob/01f98e98c9633e30b271271cad52cd2dd17a550a/Final%20task%202/readme.md> sql copy of the database and table structures </a>
