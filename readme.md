@@ -13,4 +13,4 @@ This Portfolio will provide my skills and backround about myself as well. One of
  - Final Lab Task 1: [MYSQL Basic Event Management](https://github.com/Enzofxd/enzofxd/tree/f2bf90b9116810abb2998a36810a37dacae55a3f/Final%20task%201)
  - Final Lab Task 2: [Transforming ER into Relational Tables](https://github.com/Enzofxd/enzofxd/tree/115253513608adacdf5297f7d40b92f4e3837a67/Final%20task%202)
 - Final Lab Task 3: [Table Manipulation](https://github.com/Enzofxd/enzofxd/tree/2ca36c548ce17c8c9a4227b9d37505c801018d01/Final%20task%203)
-- Final Lab Task 4: [Using SELECT statement]()
+- Final Lab Task 4: [Using SELECT statement](https://github.com/Enzofxd/enzofxd/tree/3905f78277d0e57d1eb4970b0ba48568b5b68237/Final%20task%204)
